@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.ibb.co/Cz9JPXn/anime-hacking-min.gif" alt="not found" />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Ali Shan</h1>
 <h3 align="center">A passionate frontend and Blockchain developer</h3>
