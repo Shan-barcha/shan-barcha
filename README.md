@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A passionate frontend and Blockchain developer</p>
+<p align="left">A passionate frontend and Blockchain developer with more than 3 years of experience.</p>
 
 ###
 
@@ -13,9 +13,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shan-barcha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Shan-barcha&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shan-barcha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shan-barcha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shan-barcha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Shan-barcha&locale=en&mode=daily&theme=merko&hide_border=true&border_radius=0" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -30,15 +30,14 @@
   <a href="https://www.linkedin.com/in/ali-shan-96a49a25a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://twitter.com/BarchaShan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
 
 <p align="left">I have Experience with:</p>
-
-###
-
-<img align="left" height="147" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif"  />
 
 ###
 
@@ -108,8 +107,14 @@
 
 ###
 
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Shan-barcha/Shan-barcha/output/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/Shan-barcha/Shan-barcha/output/snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
